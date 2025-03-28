@@ -7,7 +7,7 @@
   "type": "module",
   "scripts": {
     "start": "node index.js",
-    "start-prod": "node server.js"
+    "start-prod": "node index.js"
   },
   "keywords": [],
   "author": "Panshak Solomon",
